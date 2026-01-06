@@ -1,3 +1,0 @@
-target: ali-dev.top
-maintance: true
-ddos: false
