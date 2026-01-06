@@ -1,4 +1,4 @@
 {
   "maintenance": true,
-  "ddos": true
+  "ddos": false
 }
