@@ -1,4 +1,5 @@
 {
   "maintenance": false,
-  "ddos": false
+  "ddos": false,
+  "captcha": true
 }
