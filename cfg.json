@@ -1,5 +1,5 @@
 {
   "maintenance": false,
   "ddos": false,
-  "captcha": false
+  "captcha": true
 }
