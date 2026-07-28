@@ -1,3 +1,3 @@
 {
-  "Test": {"download": "ali-dev.top", "description": "Hello...", "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMiVAaZpXFUxG-SsGTbFP-TazT_8E1fYPzB3eveycuqA&s=10"}
+  "Test": {"download": "ali-dev.top", "description": "Hello...", "type": "site", "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMiVAaZpXFUxG-SsGTbFP-TazT_8E1fYPzB3eveycuqA&s=10"}
 }
